@@ -1,4 +1,4 @@
-import SignUpForm from '../../components/sign-up-fofm/sign-up-form.component';
+import SignUpForm from '../../components/sign-up-form/sign-up-form.component';
 
 import {
   signInWithGooglePopup,
